@@ -1,5 +1,6 @@
 # dataMining
 Before run the program, please ensure you have installed the below libraries:
+	
 	pip install numpy
 	pip install sklearn
 	pip install json
@@ -9,6 +10,7 @@ Before run the program, please ensure you have installed the below libraries:
 	pip install random
 
 Then using the following code to run:
+
 	1. Single classifier
 		a. SVM: 
 			python svm.py train.json test.json svmOutput.csv
