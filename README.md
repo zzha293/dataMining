@@ -1,5 +1,5 @@
 # dataMining
-# Before run the program, please ensure you have installed the below libraries:
+Before run the program, please ensure you have installed the below libraries:
 	pip install numpy
 	pip install sklearn
 	pip install json
